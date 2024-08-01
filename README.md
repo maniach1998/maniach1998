@@ -1,9 +1,12 @@
-## Hi there 👋
+# Hey there! 🤠
 
-<!--
-**maniach1998/maniach1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manas**, a passionate full-stack web engineer and UI/UX enthusiast, with a Master's in Computer Science from Stevens Institute of Technology. I love creating engaging and efficient web experiences, and my journey has been fueled by a genuine curiosity and enthusiasm for technology. Whether it's crafting the front end or optimizing the back end, I relish the challenge of solving complex problems and making technology accessible and enjoyable for users.
 
-Here are some ideas to get you started:
+I love bringing ideas to life on the web. The ever-evolving nature of the field keeps me on my toes, always learning and experimenting with new technologies and frameworks. Whether it's a sleek UI or a robust back-end system.
+
+Outside of coding, I'm interested in AI, playing video games, and playing the guitar. Feel free to explore my projects here on GitHub, and don't hesitate to reach out if you want to collaborate or chat about web development and tech!
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
