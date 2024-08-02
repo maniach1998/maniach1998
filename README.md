@@ -1,18 +1,25 @@
 # Hey there! 🤠
 
-I'm **Manas**, a passionate full-stack web engineer and UI/UX enthusiast, with a Master's in Computer Science from Stevens Institute of Technology. I love creating engaging and efficient web experiences, and my journey has been fueled by a genuine curiosity and enthusiasm for technology. Whether it's crafting the front end or optimizing the back end, I relish the challenge of solving complex problems and making technology accessible and enjoyable for users.
+I'm **Manas**, a passionate full-stack web engineer and UI/UX enthusiast, with a Master's in Computer Science from Stevens Institute of Technology. I love creating engaging and efficient web experiences, and my journey has been fueled by a genuine curiosity and enthusiasm for technology.
 
 I love bringing ideas to life on the web. The ever-evolving nature of the field keeps me on my toes, always learning and experimenting with new technologies and frameworks. Whether it's a sleek UI or a robust back-end system.
 
-Outside of coding, I'm interested in AI, playing video games, and playing the guitar. Feel free to explore my projects here on GitHub, and don't hesitate to reach out if you want to collaborate or chat about web development and tech!
+## What I use 🖥️
 
-<!-- Here are some ideas to get you started:
+### Programming and Markup Languages 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black) ![JS](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black) ![TS](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black) ![Python3](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white&labelColor=black) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=black) ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)
+
+### Frameworks and Libraries 🤔
+
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black) ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black) ![Express.js](https://img.shields.io/badge/express.js-5AA00E?style=for-the-badge&logo=express&logoColor=white&labelColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black) ![shadcnui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black) ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black) ![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=black) ![sanity](https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white&labelColor=black) ![strapi](https://img.shields.io/badge/strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white&labelColor=black) ![stripe](https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white&labelColor=black)
+
+### Databases and ORMs 🔭
+
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black) ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black) ![prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black) ![drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=white&labelColor=black) ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black) ![firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black) ![planetscale](https://img.shields.io/badge/planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=black) ![mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black)
+
+### Tools and Extras ⚡
+
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black) ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white&labelColor=black) ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black) ![digitalocean](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black) ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black) ![openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=black) ![amazonwebservices](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=black) ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black) ![adobephotoshop](https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=black) ![adobexd](https://img.shields.io/badge/adobe_xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=black) ![davinciresolve](https://img.shields.io/badge/davinci_resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=black) ![firefoxbrowser](https://img.shields.io/badge/firefox_browser-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=black)
+
+Outside of coding, I'm interested in AI, playing video games, and playing the guitar. Feel free to explore my projects here on ![github](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white&labelColor=black), and don't hesitate to reach out if you want to collaborate or chat about web development and tech!
